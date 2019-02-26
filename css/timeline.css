@@ -308,13 +308,14 @@ Main Components
   display: block;
   font-style: italic;
   margin: 10px auto;
+  color:#ccc;
 }
 .cd-horizontal-timeline .events-content em::before {
   content: '- ';
 }
 .cd-horizontal-timeline .events-content p {
   font-size: 1.4rem;
-  color: #959595;
+  color: #ddd;
 }
 .cd-horizontal-timeline .events-content em, .cd-horizontal-timeline .events-content p {
   line-height: 1.6;
@@ -409,4 +410,7 @@ Main Components
 }
 ol, ul {
  list-style-type: none;
+}
+.timelineHead {
+  color:#ec5707;
 }
