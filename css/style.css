@@ -1381,6 +1381,7 @@ section.section {
 }
 .home-section .section-heading-outer .heading {
   margin: 0px;
+  color:#ccc;
 }
 .home-section .list-view li {
   float: left;
