@@ -1,6 +1,6 @@
 /* ==========background Images=============== */
 .background-2{
-    background: url('../images/21.jpg');
+    /* background: url('../images/21.jpg'); */
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -9,11 +9,11 @@
     background-position: 50% 50%;
     background-attachment: initial;
     background-repeat: no-repeat;
-  
+    background-color: #171717;
   }
   
   .background-3{
-    background: url('../images/Master.jpg');
+    /* background: url('../images/Master.jpg'); */
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -22,11 +22,11 @@
     background-position: 50% 50%;
     background-attachment: initial;
     background-repeat: no-repeat;
-  
+    background-color: #171717;
   }
   
   .background-4{
-    background: url('../images/img1.jpg');
+    /* background: url('../images/img1.jpg'); */
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -35,11 +35,11 @@
     background-position: 50% 50%;
     background-attachment: initial;
     background-repeat: no-repeat;
-  
+    background-color: #171717;
   }
   
   .background-5{
-    background: url('../images/Afghani-Pulao.jpg');
+    /* background: url('../images/Afghani-Pulao.jpg'); */
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -48,11 +48,11 @@
     background-position: 50% 50%;
     background-attachment: initial;
     background-repeat: no-repeat;
-  
+    background-color: #171717; 
   }
 
   .background-6 {
-    background: url('../images/background-1.jpg');
+    background: url('../images/back-ground-1a.jpg');
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
