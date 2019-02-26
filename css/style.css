@@ -460,13 +460,13 @@ section.section {
 .btn.btn-fill {
   padding: 14px 30px;
   background-color: #ff6633;
-  color: #282828;
+  color: #fffff;
 }
 .btn.btn-fill,
 .btn.btn-fill .icon,
 .btn.btn-fill:hover {
-  background-color: #feb960;
-  color: #282828;
+  background-color: #ff6633;
+  color: #ffffff;
 }
 .btn.btn-border {
   background-color: transparent;
@@ -476,7 +476,7 @@ section.section {
   color: #ff6633;
 }
 .btn.btn-border:hover {
-  background-color: #feb960;
+  background-color: #ff6633;
   color: #ffffff;
 }
 .btn-mask,
@@ -536,7 +536,7 @@ section.section {
 .btn-nav .view-all-link-mask .icon,
 .btn-mask .view-all-link-mask .view-all-link-mask-text .icon,
 .btn-nav .view-all-link-mask .view-all-link-mask-text .icon {
-  color: #feb960;
+  color: #ff6633;
 }
 .btn-mask .view-all-link-mask .view-all-link-mask-text,
 .btn-nav .view-all-link-mask .view-all-link-mask-text {
@@ -1079,7 +1079,7 @@ section.section {
 .main-navbar-top .navbar-nav li .btn-nav .view-all-link-mask .view-all-link-mask-text,
 .main-navbar-top .navbar-nav li .btn-nav .view-all-link-mask *,
 .main-navbar-top .navbar-nav li .btn-nav .view-all-link-mask .view-all-link-mask-text * {
-  color: #feb960;
+  color: #ff6633;
 }
 .main-navbar-top .navbar-nav li .btn-nav:hover,
 .main-navbar-top .navbar-nav li .btn-nav:focus {
@@ -1092,7 +1092,7 @@ section.section {
   margin-left: 4px;
 }
 .main-navbar-top .navbar-nav li.active .btn-nav {
-  color: #feb960;
+  color: #ff6633;
 }
 .main-navbar-top .navbar-nav li:last-child a {
   margin-right: 0px;
@@ -1163,7 +1163,7 @@ section.section {
 .main-navbar-top .navbar-collapse .navbar-nav .btn-nav .view-all-link-mask .view-all-link-mask-text,
 .main-navbar-top .navbar-collapse .navbar-nav .btn-nav .view-all-link-mask *,
 .main-navbar-top .navbar-collapse .navbar-nav .btn-nav .view-all-link-mask .view-all-link-mask-text * {
-  color: #feb960;
+  color: #ff6633;
 }
 .main-navbar-top .navbar-collapse.show-nav {
   -o-transform: translate3d(-50%, 70px, 0);
@@ -1662,7 +1662,7 @@ section.section {
 .services-full-view .services-details .back-button-outer .btn .view-all-link-mask .view-all-link-mask-text,
 .services-full-view .services-details .back-button-outer .btn .view-all-link-mask *,
 .services-full-view .services-details .back-button-outer .btn .view-all-link-mask .view-all-link-mask-text * {
-  color: #feb960;
+  color: #ff6633;
 }
 .services-full-view .services-details .line {
   margin-bottom: 6px;
