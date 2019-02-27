@@ -1976,7 +1976,7 @@ section.section {
   background-color: #171717;
 }
 .testimonial-section .testimonial-wrapper .item {
-  padding: 0 80px;
+  padding: 0 0;
 }
 .testimonial-section .testimonial-wrapper .item .image-outer img {
   width: 100%;
