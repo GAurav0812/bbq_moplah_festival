@@ -68,3 +68,26 @@
   .date-discription{
     font-size: 15px !important;
   }
+
+  .tile h1 {
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 300;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    transform: translateY(75px);
+    transition-delay: 0.2s;
+    opacity: 1 !important;
+    
+}
+
+.tile h2{
+  font-size: 15px;
+    line-height: 24px;
+    font-weight: 100;
+    margin: 0 0 0 0;
+    font-style: italic;
+    text-align: center;
+    transform: translateY(75px);
+    transition-delay: 0.2s;
+    opacity: 1 !important;
+}
