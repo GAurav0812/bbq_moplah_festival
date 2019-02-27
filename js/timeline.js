@@ -275,3 +275,11 @@ jQuery(document).ready(function($){
 		return window.getComputedStyle(document.querySelector('.cd-horizontal-timeline'), '::before').getPropertyValue('content').replace(/'/g, "").replace(/"/g, "");
 	}
 });
+
+
+
+$(document).ready(function() {
+	$('#Carousel').carousel({
+		interval: 5000
+	})
+});
