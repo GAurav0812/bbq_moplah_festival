@@ -1385,8 +1385,8 @@ section.section {
 }
 .home-section .list-view li {
   float: left;
-  border-right: 1px solid;
-  border-right-color: rgba(247, 172, 84, 0.6);
+  /* border-right: 1px solid; */
+  /* border-right-color: rgba(247, 172, 84, 0.6); */
   margin-right: 10px;
   padding-right: 10px;
   font-weight: 400;

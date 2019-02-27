@@ -13,7 +13,7 @@
   }
   
   .background-3{
-    /* background: url('../images/Master.jpg'); */
+    background: url('../images/black-background.jpg');
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -26,7 +26,7 @@
   }
   
   .background-4{
-    /* background: url('../images/img1.jpg'); */
+    background: url('../images/black-back-ground22.jpg');
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
@@ -65,4 +65,6 @@
   }
   
   /* ==========background Images=============== */
-  
+  .date-discription{
+    font-size: 15px !important;
+  }
